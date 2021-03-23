@@ -43,7 +43,7 @@ swordGroup=new Group();
 
 function draw() {
 
-  background(0);
+  background("grey");
   boy.x = World.mouseX;
   
   edges= createEdgeSprites();
